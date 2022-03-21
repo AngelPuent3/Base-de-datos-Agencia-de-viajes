@@ -1,5 +1,5 @@
-# Agencia de viajes
-## Base de datos
+#Base de datos 
+##Agencias de viajes
 
 Una cadena de agencias de viajes desea disponer de una Base de Datos que contemple información
 relativa al hospedaje y vuelos de los turistas que la contratan.
@@ -19,6 +19,7 @@ y plazas de clase turista de las que dispone.
 apellidos, dirección y teléfono.
 
 Por otra parte, hay que tener en cuenta la siguiente información:
+
 ✅ A la cadena de agencias le interesa conocer que sucursal ha contratado el turista.
 
 ✅ A la hora de viajar el turista puede elegir cualquiera de los vuelos que ofrece la cadena, y en que
