@@ -1,6 +1,5 @@
-#Base de datos 
-
-##Agencias de viajes
+# Base de datos
+## Agencia de viajes
 
 Una cadena de agencias de viajes desea disponer de una Base de Datos que contemple información
 relativa al hospedaje y vuelos de los turistas que la contratan.
